@@ -79,6 +79,4 @@ jupyter notebook
 
 ---
 
-## Keywords
 
-`ai-agents` · `agentic-ai` · `claude` · `anthropic` · `tool-use` · `function-calling` · `rag` · `llm-agents`
