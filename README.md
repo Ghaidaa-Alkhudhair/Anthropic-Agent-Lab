@@ -2,9 +2,7 @@
 
 Hands-on **AI agent** notebooks built with the [Anthropic Claude API](https://docs.anthropic.com/): custom tools, multi-turn agent loops, streaming, web search, code execution, extended thinking, and hybrid RAG retrieval.
 
-> **Not just chat completions** — these notebooks implement **agentic patterns**: the model plans, calls tools, receives results, and continues until the task is done.
-
-**Repository:** [github.com/Ghaidaa-Alkhudhair/Anthropic-Agent-Lab](https://github.com/Ghaidaa-Alkhudhair/Anthropic-Agent-Lab)
+> These notebooks implement **agentic patterns**: the model plans, calls tools, receives results, and continues until the task is done.
 
 ---
 
